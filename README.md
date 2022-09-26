@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently preparing for Placements and RedHat RHCSA certification!<br>🌱 I’m currently exploring Web development<br>🤔Working at Rubex as AI/ML intern<br>💬Ask me about my projects, passion....<br>📫Reach me @https://www.linkedin.com/in/manjesh-m-3a0b371b2<br>😄Pronouns: He/His<br>⚡Fun fact: I've won Nobel Prize in Chemistry for the discovery of new element Manjesium
+🔭I’m currently preparing for Placements and RedHat RHCSA certification!<br>🌱 I’m currently exploring Web development<br>🤔Working at Rubex as AI/ML intern<br>💬Ask me about my projects, passion....<br>📫Reach me: https://www.linkedin.com/in/manjesh-m-3a0b371b2<br>😄Pronouns: He/His<br>⚡Fun fact: I've won Nobel Prize in Chemistry for the discovery of new element Manjesium
 
 
 ## 🌐 Socials:
