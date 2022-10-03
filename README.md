@@ -1,6 +1,6 @@
 # Hi there👋
 [![@manjesh2022's Holopin board](https://holopin.io/api/user/board?user=manjesh2022)](https://holopin.io/@manjesh2022)
-![Skill Badge](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042/badges/1920860)
+[![Skill Badge](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042/badges/1920860)]
 
 
 # 💫 About Me:
