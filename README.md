@@ -2,8 +2,7 @@
 [![@manjesh2022's Holopin board](https://holopin.io/api/user/board?user=manjesh2022)](https://holopin.io/@manjesh2022)
 
 # 💫 About Me:
-<br>🎌Working as Bilingual IT Engineer<br>💬Ask me about my projects, passion....<br>📫How to reach me: https://www.linkedin.com/in/manjeshm<br>😄Pronouns: He/His<br>⚡Fun fact: I've won Nobel Prize in Chemistry for the discovery of new element Manjesium
-
+<br>🎌Working as Bilingual IT Engineer<br>💬Ask me about my projects, passion....<br>📫How to reach me: https://www.linkedin.com/in/manjeshm<br>😄Pronouns: He/His<br>⚡Fun fact: Can sing 2-3 Japanese songs without looking at the lyrics!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manjeshm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Manjesh-M-12) 
