@@ -2,7 +2,7 @@
 [![@manjesh2022's Holopin board](https://holopin.io/api/user/board?user=manjesh2022)](https://holopin.io/@manjesh2022)
 
 # 💫 About Me:
-🔭I’m currently preparing for Placements and RedHat RHCSA certification!<br>🌱 I’m currently exploring Web development<br>🤔Working at Rubex as AI/ML intern<br>💬Ask me about my projects, passion....<br>📫How to reach me: https://www.linkedin.com/in/manjeshm<br>😄Pronouns: He/His<br>⚡Fun fact: I've won Nobel Prize in Chemistry for the discovery of new element Manjesium
+<br>Working as Bilingual IT Engineer🎌<br>💬Ask me about my projects, passion....<br>📫How to reach me: https://www.linkedin.com/in/manjeshm<br>😄Pronouns: He/His<br>⚡Fun fact: I've won Nobel Prize in Chemistry for the discovery of new element Manjesium
 
 
 ## 🌐 Socials:
