@@ -27,17 +27,37 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manjesh2022&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manjesh2022&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 💡 Interests
+- 📚 Reading
+- 🏸 Badminton
+- ✍️ Writing Diary
 
-# 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+## 🏆 Certifications & Achievements
 
----
-[![](https://visitcount.itsvg.in/api?id=manjesh2022&icon=0&color=0)](https://visitcount.itsvg.in)
+- 🇯🇵 **Japanese-Language Proficiency Test (JLPT) N2 Certified**
+- ⚡ **Salesforce Certified Platform Developer I (PD1)**
+- 🥇 [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/cdd880a5-01fc-4b2d-84c1-8efbdfb379a4/public_url)
+- ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/badges/dd06f921-24c5-4a54-a22b-4287bad83d15/linked_in_profile)
+- 🌐 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042)
+- 🚀 [Salesforce Trailblazer](https://trailblazer.me/id/manjeshm)
+
+## 🚀 Projects
+
+1. **My Clicks** – Responsive Photography Gallery
+   - 🌐 Live: https://manjesh2022.github.io/MyClicks/
+   - 💻 Repository: https://github.com/manjesh2022/MyClicks
+
+2. **ATOM SIMULATION**
+   - Computer Graphics Laboratory Project using OpenGL
+   - 💻 https://github.com/manjesh2022/CGL-Project
+
+3. **EMPLOYEE DATABASE**
+   - Mobile Application Development Project
+   - 💻 https://github.com/manjesh2022/MAD-Project
 
 
-[![manjesh's GitHub stats](https://stats.quine.sh/manjesh/github)](https://quine.sh)
- 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📫 GitHub Profile
+https://github.com/manjesh2022
+
   
