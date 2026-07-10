@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast | Japanese Trainer (N3 Certified, soon to be N2)<br>
+👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast | Japanese Trainer (JLPT N2 Certified)<br>
 💬 Ask me about my tech projects, web apps, or language tools!<br>
 📚 Volunteer, anime lover, and lifelong learner<br>
 😄 Pronouns: He/Him<br>
