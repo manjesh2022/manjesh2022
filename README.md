@@ -45,7 +45,7 @@
 
 ## 🚀 Projects
 
-### 18. 📸 My Clicks *(2024)*
+### 17. 📸 My Clicks *(2024)*
 Responsive photography gallery built using HTML, CSS, and JavaScript.
 
 - 🌐 Live: https://manjesh2022.github.io/MyClicks/
@@ -53,7 +53,7 @@ Responsive photography gallery built using HTML, CSS, and JavaScript.
 
 ---
 
-### 17. 🎓 College Admission Portal *(2023)*
+### 16. 🎓 College Admission Portal *(2023)*
 A multi-page admission portal website built using HTML and CSS.
 
 - 🌐 Live: https://manjesh2022.github.io/AOS/
@@ -61,7 +61,7 @@ A multi-page admission portal website built using HTML and CSS.
 
 ---
 
-### 16. 📋 Survey Form *(2025)*
+### 15. 📋 Survey Form *(2025)*
 A simple survey form built using HTML and CSS to practice form creation and basic web design.
 
 - 🌐 Live: https://manjesh2022.github.io/Survey/
@@ -69,42 +69,42 @@ A simple survey form built using HTML and CSS to practice form creation and basi
 
 ---
 
-### 15. 🗃️ Student Attendance Management System *(2023)*
+### 14. 🗃️ Student Attendance Management System *(2023)*
 Database Management System project developed using web technologies.
 
 - 💻 Repository: https://github.com/manjesh2022/DBMS-Project
 
 ---
 
-### 14. ⚛️ Atom Simulation *(2022)*
+### 13. ⚛️ Atom Simulation *(2022)*
 Computer Graphics Laboratory project using OpenGL in C.
 
 - 💻 Repository: https://github.com/manjesh2022/CGL-Project
 
 ---
 
-### 13. 👨‍💼 Employee Database *(2022)*
+### 12. 👨‍💼 Employee Database *(2022)*
 Mobile Application Development project built using Java for managing employee records.
 
 - 💻 Repository: https://github.com/manjesh2022/MAD-Project
 
 ---
 
-### 12. 🤖 AI & ML Lab *(2023)*
+### 11. 🤖 AI & ML Lab *(2023)*
 Artificial Intelligence and Machine Learning laboratory programs implemented in Python.
 
 - 💻 Repository: https://github.com/manjesh2022/AIML-Lab
 
 ---
 
-### 11. 🌐 Eduhub Winter Camp 1.0 *(2023)*
+### 10. 🌐 Eduhub Winter Camp 1.0 *(2023)*
 Frontend development exercises and projects completed during Eduhub Winter Camp 1.0.
 
 - 💻 Repository: https://github.com/manjesh2022/Eduhub-WC1.0
 
 ---
 
-### 10. 👨‍💻 About Me Website *(2022)*
+### 9. 👨‍💻 About Me Website *(2022)*
 A simple personal website introducing myself and sharing basic information.
 
 - 🌐 Live: https://manjesh2022.github.io/manjesh/
@@ -112,31 +112,24 @@ A simple personal website introducing myself and sharing basic information.
 
 ---
 
-### 9. 🗺️ Technology Roadmap *(2024)*
+### 8. 🗺️ Technology Roadmap *(2024)*
 A curated roadmap repository for learning technologies and tracking progress.
 
 - 💻 Repository: https://github.com/manjesh2022/Roadmap
 
 ---
 
-### 8. 📚 My Importants *(2024)*
+### 7. 📚 My Importants *(2024)*
 A collection of useful resources, references, and important materials.
 
 - 💻 Repository: https://github.com/manjesh2022/MyImportants
 
 ---
 
-### 7. 🧪 Dummy Repository *(2024)*
+### 6. 🧪 Dummy Repository *(2024)*
 A practice repository created for testing and experimentation.
 
 - 💻 Repository: https://github.com/manjesh2022/Dummy
-
----
-
-### 6. ⚙️ GitHub Profile Config *(2025)*
-Configuration files and assets used for customizing my GitHub profile.
-
-- 💻 Repository: https://github.com/manjesh2022/config
 
 ---
 
@@ -172,7 +165,6 @@ System Software laboratory programs and practical assignments.
 Machine Learning internship tasks completed during The Spark Foundation GRIP program.
 
 - 💻 Repository: https://github.com/manjesh2022/The-Spark-Foundation
-
 
 
 ## 📫 GitHub Profile
