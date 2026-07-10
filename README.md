@@ -4,11 +4,11 @@
 
 # 💫 About Me:
 
-👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast | Japanese Trainer (N3 Certified, soon to be N2)
-💬 Ask me about my tech projects, web apps, or language tools!
-📚 Volunteer, anime lover, and lifelong learner
-😄 Pronouns: He/Him
-⚡ Fun fact: I can sing 2–3 Japanese songs completely from memory!
+👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast | Japanese Trainer (N3 Certified, soon to be N2)<br>
+💬 Ask me about my tech projects, web apps, or language tools!<br>
+📚 Volunteer, anime lover, and lifelong learner<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I can sing 2–3 Japanese songs completely from memory!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjeshm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Manjesh-M-12) 
