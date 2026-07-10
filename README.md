@@ -107,7 +107,8 @@ Frontend development exercises and projects completed during Eduhub Winter Camp 
 ### 9. 👨‍💻 About Me Website *(2025)*
 A simple personal website introducing myself and sharing basic information.
 
-- 💻 Repository: https://github.com/manjesh2022/manjes
+- 🌐 Live: https://manjesh2022.github.io/manjesh/
+- 💻 Repository: https://github.com/manjesh2022/manjesh
 
 ---
 
