@@ -43,17 +43,17 @@
 - 🌐 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042)
 - 🚀 [Salesforce Trailblazer](https://trailblazer.me/id/manjeshm)
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 📸 My Clicks
-Responsive Photography Gallery
+### 1. 📸 My Clicks *(2024)*
+Responsive photography gallery built using HTML, CSS, and JavaScript.
 
 - 🌐 Live: https://manjesh2022.github.io/MyClicks/
 - 💻 Repository: https://github.com/manjesh2022/MyClicks
 
 ---
 
-### 🎓 College Admission Portal
+### 2. 🎓 College Admission Portal *(2023)*
 A multi-page admission portal website built using HTML and CSS.
 
 - 🌐 Live: https://manjesh2022.github.io/AOS/
@@ -61,34 +61,118 @@ A multi-page admission portal website built using HTML and CSS.
 
 ---
 
-### 📋 Survey Form
-A simple survey form built using HTML and CSS.
+### 3. 📋 Survey Form *(2025)*
+A simple survey form built using HTML and CSS to practice form creation and basic web design.
 
 - 🌐 Live: https://manjesh2022.github.io/Survey/
 - 💻 Repository: https://github.com/manjesh2022/Survey
 
 ---
 
-### 🗃️ Student Attendance Management System
+### 4. 🗃️ Student Attendance Management System *(2023)*
 Database Management System project developed using web technologies.
 
 - 💻 Repository: https://github.com/manjesh2022/DBMS-Project
 
 ---
 
-### ⚛️ Atom Simulation
+### 5. ⚛️ Atom Simulation *(2022)*
 Computer Graphics Laboratory project using OpenGL in C.
 
 - 💻 Repository: https://github.com/manjesh2022/CGL-Project
 
 ---
 
-### 👨‍💼 Employee Database
-Android application developed using Java.
+### 6. 👨‍💼 Employee Database *(2022)*
+Mobile Application Development project built using Java for managing employee records.
 
 - 💻 Repository: https://github.com/manjesh2022/MAD-Project
 
-- 
+---
+
+### 7. 🤖 AI & ML Lab *(2023)*
+Artificial Intelligence and Machine Learning laboratory programs implemented in Python.
+
+- 💻 Repository: https://github.com/manjesh2022/AIML-Lab
+
+---
+
+### 8. 🌐 Eduhub Winter Camp 1.0 *(2023)*
+Frontend development exercises and projects completed during Eduhub Winter Camp 1.0.
+
+- 💻 Repository: https://github.com/manjesh2022/Eduhub-WC1.0
+
+---
+
+### 9. 👨‍💻 About Me Website *(2025)*
+A simple personal website introducing myself and sharing basic information.
+
+- 💻 Repository: https://github.com/manjesh2022/manjes
+
+---
+
+### 10. 🗺️ Technology Roadmap *(2024)*
+A curated roadmap repository for learning technologies and tracking progress.
+
+- 💻 Repository: https://github.com/manjesh2022/Roadmap
+
+---
+
+### 11. 📚 My Importants *(2024)*
+A collection of useful resources, references, and important materials.
+
+- 💻 Repository: https://github.com/manjesh2022/MyImportants
+
+---
+
+### 12. 🧪 Dummy Repository *(2024)*
+A practice repository created for testing and experimentation.
+
+- 💻 Repository: https://github.com/manjesh2022/Dummy
+
+---
+
+### 13. ⚙️ GitHub Profile Config *(2025)*
+Configuration files and assets used for customizing my GitHub profile.
+
+- 💻 Repository: https://github.com/manjesh2022/config
+
+---
+
+### 14. 💡 BrandShoes *(2022)*
+Software Engineering course project for a shoe store application.
+
+- 💻 Repository: https://github.com/manjesh2022/BrandShoes
+
+---
+
+### 15. ⚡ DC Circuit *(2022)*
+Basic Electrical Engineering assignment focusing on DC circuit concepts.
+
+- 💻 Repository: https://github.com/manjesh2022/DC-Circuit
+
+---
+
+### 16. 💻 Computer Graphics Lab *(2022)*
+Computer Graphics laboratory programs and experiments.
+
+- 💻 Repository: https://github.com/manjesh2022/CG-Lab
+
+---
+
+### 17. 🖥️ System Software Lab *(2022)*
+System Software laboratory programs and practical assignments.
+
+- 💻 Repository: https://github.com/manjesh2022/SS-Lab
+
+---
+
+### 18. 📈 The Spark Foundation *(2022)*
+Machine Learning internship tasks completed during The Spark Foundation GRIP program.
+
+- 💻 Repository: https://github.com/manjesh2022/The-Spark-Foundation
+
+  
 ## 📫 GitHub Profile
 https://github.com/manjesh2022
 
