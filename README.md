@@ -45,6 +45,13 @@
 
 ## 🚀 Projects
 
+### 18. 🧰 My Cool Apps *(2026)*
+A collection of useful web utilities, tools, and mini-applications built using HTML, CSS, and JavaScript.
+
+- 🌐 Live: https://manjesh2022.github.io/MyCoolApps/
+- 💻 Repository: https://github.com/manjesh2022/MyCoolApps
+
+---
 ### 17. 📸 My Clicks *(2024)*
 Responsive photography gallery built using HTML, CSS, and JavaScript.
 
