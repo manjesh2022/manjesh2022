@@ -166,6 +166,7 @@ Machine Learning internship tasks completed during The Spark Foundation GRIP pro
 
 - 💻 Repository: https://github.com/manjesh2022/The-Spark-Foundation
 
+---
 
 ## 📫 GitHub Profile
 https://github.com/manjesh2022
