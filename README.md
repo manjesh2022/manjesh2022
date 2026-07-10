@@ -38,7 +38,7 @@
 - 🏸 Badminton
 - ✍️ Writing Diary
 - 🏋️‍♂️ Fitness & Weight Training (Active since 5+ months)
-- 🎌 Japanese Language Learning (JLPT N5✅, N4✅, N3✅, N2✅, N1🔁)
+- 🎌 Learning Japanese (JLPT N5✅, N4✅, N3✅, N2✅, N1🔁)
 - 💻 Building Web Utilities & Side Projects
 
 ## 🏆 Certifications & Achievements
