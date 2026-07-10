@@ -38,12 +38,12 @@
 - 🏸 Badminton
 - ✍️ Writing Diary
 - 🏋️‍♂️ Fitness & Weight Training (Active since 5+ months)
-- 🇯🇵 Language Learning (Japanese N5✅, N4✅, N3✅, N2✅, N1🔁)
+- 🎌 Japanese Language Learning (JLPT N5✅, N4✅, N3✅, N2✅, N1🔁)
 - 💻 Building Web Utilities & Side Projects
 
 ## 🏆 Certifications & Achievements
 
-- 🇯🇵 **Japanese-Language Proficiency Test (JLPT) N2 Certified**
+- ㊗ **Japanese-Language Proficiency Test (JLPT) N2 Certified**
 - ⚡ **Salesforce Certified Platform Developer I (PD1)**
 - 🥇 [Microsoft Certified: Azure Fundamentals (AZ-900)](https://www.credly.com/badges/cdd880a5-01fc-4b2d-84c1-8efbdfb379a4/public_url)
 - ☁️ [AWS Academy Cloud Foundations](https://www.credly.com/badges/dd06f921-24c5-4a54-a22b-4287bad83d15/linked_in_profile)
