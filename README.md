@@ -34,7 +34,7 @@
 - 🏸 Badminton
 - ✍️ Writing Diary
 - 🏋️‍♂️ Fitness & Weight Training (Active since 5+ months)
-- 🇯🇵 Language Learning (Japanese)
+- 🇯🇵 Language Learning (Japanese N5✅, N4✅, N3✅, N2✅, N1🔁)
 - 💻 Building Web Utilities & Side Projects
 
 ## 🏆 Certifications & Achievements
