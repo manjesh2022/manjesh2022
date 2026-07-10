@@ -33,6 +33,9 @@
 - 📚 Reading
 - 🏸 Badminton
 - ✍️ Writing Diary
+- 🏋️‍♂️ Fitness & Weight Training (Active since 5+ months)
+- 🇯🇵 Language Learning (Japanese)
+- 💻 Building Web Utilities & Side Projects
 
 ## 🏆 Certifications & Achievements
 
