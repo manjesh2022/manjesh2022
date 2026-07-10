@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast<br>💬 Ask me about my projects, passion....<br>📚 Volunteer, anime lover, and lifelong learner<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manjeshm)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Can sing 2-3 Japanese songs without looking at the lyrics!
+👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast | Japanese Trainer<br>💬 Ask me about my projects, passion....<br>📚 Volunteer, anime lover, and lifelong learner<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/manjeshm)<br>😄 Pronouns: He/His<br>⚡ Fun fact: Can sing 2-3 Japanese songs without looking at the lyrics!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjeshm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Manjesh-M-12) 
