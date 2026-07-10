@@ -11,7 +11,7 @@
 ⚡ Fun fact: I can sing 2–3 Japanese songs completely from memory!<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjeshm) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Manjesh-M-12) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjeshm) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/manjesh2022) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Manjesh-M-12) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:manjesh.mariswamy@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -182,7 +182,5 @@ Machine Learning internship tasks completed during The Spark Foundation GRIP pro
 
 ---
 
-## 📫 GitHub Profile
-https://github.com/manjesh2022
 
   
