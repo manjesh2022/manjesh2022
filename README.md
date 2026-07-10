@@ -75,7 +75,7 @@ A multi-page admission portal website built using HTML and CSS.
 
 ---
 
-### 15. 📋 Survey Form *(2025)*
+### 15. 📋 Survey Form *(2022)*
 A simple survey form built using HTML and CSS to practice form creation and basic web design.
 
 - 🌐 Live: https://manjesh2022.github.io/Survey/
