@@ -46,16 +46,24 @@
 ## 🚀 Projects
 
 1. **My Clicks** – Responsive Photography Gallery
-   - 🌐 Live: https://manjesh2022.github.io/MyClicks/
-   - 💻 Repository: https://github.com/manjesh2022/MyClicks
 
-2. **ATOM SIMULATION**
-   - Computer Graphics Laboratory Project using OpenGL
-   - 💻 https://github.com/manjesh2022/CGL-Project
+   * 🌐 Live: https://manjesh2022.github.io/MyClicks/
+   * 💻 Repository: https://github.com/manjesh2022/MyClicks
 
-3. **EMPLOYEE DATABASE**
-   - Mobile Application Development Project
-   - 💻 https://github.com/manjesh2022/MAD-Project
+2. **Survey Form** – Simple HTML & CSS Survey Form
+
+   * 🌐 Live: https://manjesh2022.github.io/Survey/
+   * 💻 Repository: https://github.com/manjesh2022/Survey
+
+3. **ATOM SIMULATION**
+
+   * Computer Graphics Laboratory Project using OpenGL
+   * 💻 Repository: https://github.com/manjesh2022/CGL-Project
+
+4. **EMPLOYEE DATABASE**
+
+   * Mobile Application Development Project
+   * 💻 Repository: https://github.com/manjesh2022/MAD-Project
 
 
 
