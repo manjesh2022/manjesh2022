@@ -43,28 +43,52 @@
 - 🌐 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/public_profiles/3c92752a-823b-4677-9668-999c41b28042)
 - 🚀 [Salesforce Trailblazer](https://trailblazer.me/id/manjeshm)
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-1. **My Clicks** – Responsive Photography Gallery
-   - 🌐 Live: https://manjesh2022.github.io/MyClicks/
-   - 💻 Repository: https://github.com/manjesh2022/MyClicks
+### 📸 My Clicks
+Responsive Photography Gallery
 
-2. **College Admission Portal (AOS)** – Multi-page Admission Portal Website
-   - 🌐 Live: https://manjesh2022.github.io/AOS/
-   - 💻 Repository: https://github.com/manjesh2022/AOS
+- 🌐 Live: https://manjesh2022.github.io/MyClicks/
+- 💻 Repository: https://github.com/manjesh2022/MyClicks
 
-3. **Survey Form** – Simple HTML & CSS Survey Form
-   - 🌐 Live: https://manjesh2022.github.io/Survey/
-   - 💻 Repository: https://github.com/manjesh2022/Survey
+---
 
-4. **ATOM SIMULATION** – Computer Graphics Laboratory Project using OpenGL
-   - 💻 Repository: https://github.com/manjesh2022/CGL-Project
+### 🎓 College Admission Portal
+A multi-page admission portal website built using HTML and CSS.
 
-5. **EMPLOYEE DATABASE** – Mobile Application Development Project
-   - 💻 Repository: https://github.com/manjesh2022/MAD-Project
+- 🌐 Live: https://manjesh2022.github.io/AOS/
+- 💻 Repository: https://github.com/manjesh2022/AOS
 
+---
 
+### 📋 Survey Form
+A simple survey form built using HTML and CSS.
 
+- 🌐 Live: https://manjesh2022.github.io/Survey/
+- 💻 Repository: https://github.com/manjesh2022/Survey
+
+---
+
+### 🗃️ Student Attendance Management System
+Database Management System project developed using web technologies.
+
+- 💻 Repository: https://github.com/manjesh2022/DBMS-Project
+
+---
+
+### ⚛️ Atom Simulation
+Computer Graphics Laboratory project using OpenGL in C.
+
+- 💻 Repository: https://github.com/manjesh2022/CGL-Project
+
+---
+
+### 👨‍💼 Employee Database
+Android application developed using Java.
+
+- 💻 Repository: https://github.com/manjesh2022/MAD-Project
+
+- 
 ## 📫 GitHub Profile
 https://github.com/manjesh2022
 
