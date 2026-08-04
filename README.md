@@ -52,6 +52,17 @@
 
 ## 🚀 Projects
 
+---
+### 19. 🎬 TV Show Tracker *(2026)*
+A responsive web application to track TV show progress, manage episodes, and save watch status locally using HTML, CSS, and JavaScript.
+
+- 🌐 Live: https://manjesh2022.github.io/TVShowTracker/
+- 💻 Repository: https://github.com/manjesh2022/TVShowTracker
+
+---
+
+---
+
 ### 18. 🧰 My Cool Apps *(2026)*
 A collection of useful web utilities, tools, and mini-applications built using HTML, CSS, and JavaScript.
 
