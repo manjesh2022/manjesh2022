@@ -37,7 +37,7 @@
 -->
 
 ## 💡 Interests
-- 📚 Reading
+- 📚 Reading (I Don't Love You Anymore ♥)
 - 🏸 Badminton
 - ✍️ Writing Diary
 - 🏋️‍♂️ Fitness & Weight Training (Active since 5+ months)
