@@ -52,8 +52,6 @@
 
 ## 🚀 Projects
 
----
-
 ### 19. 🎬 TV Show Tracker *(2026)*
 A responsive web application to track TV show progress, manage episodes, and save watch status locally using HTML, CSS, and JavaScript.
 
