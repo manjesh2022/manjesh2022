@@ -5,7 +5,7 @@
 # 💫 About Me:
 
 👨‍💻 Bilingual Engineer | Salesforce Developer | Japanese Enthusiast | Japanese Trainer (JLPT N2 Certified)<br>
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manjeshm)
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/manjeshm) <br>
 💬 Ask me about my tech projects, web apps, or language tools!<br>
 📚 Volunteer, anime lover, and lifelong learner<br>
 😄 Pronouns: He/Him<br>
