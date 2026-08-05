@@ -55,6 +55,14 @@
 
 ## 🚀 Projects
 
+### 20. 🏋️‍♂️ Gym Tracker *(2026)*
+A personal fitness and workout tracking web utility built to log exercises, sets, and progress over time.
+
+- 🌐 Live: https://manjesh2022.github.io/GymTracker/
+- 💻 Repository: https://github.com/manjesh2022/GymTracker
+
+---
+
 ### 19. 🎬 TV Show Tracker *(2026)*
 A responsive web application to track TV show progress, manage episodes, and save watch status locally using HTML, CSS, and JavaScript.
 
