@@ -55,11 +55,11 @@
 
 ## 🚀 Projects
 
-### 22. ⭕ XOX Game *(2026)*
+### 22. ⭕ XOX *(2026)*
 A modern Tic-Tac-Toe web application featuring a score-based series system (first to 5 points), round proof logs, and dynamic color-coded winning highlights.
 
-- 🌐 Live: https://manjesh2022.github.io/XOX-Game/
-- 💻 Repository: https://github.com/manjesh2022/XOX-Game
+- 🌐 Live: https://manjesh2022.github.io/XOX/
+- 💻 Repository: https://github.com/manjesh2022/XOX
 
 ---
 
