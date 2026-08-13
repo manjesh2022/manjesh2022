@@ -55,6 +55,14 @@
 
 ## 🚀 Projects
 
+### 23. ♟️ Chess *(2026)*
+An interactive chess platform featuring local 2-player games, Stockfish AI engine integration, automated Bot vs. Bot simulation, legal move highlights, and a match timer.
+
+- 🌐 Live: https://manjesh2022.github.io/Chess/
+- 💻 Repository: https://github.com/manjesh2022/Chess
+
+---
+
 ### 22. ⭕ XOX *(2026)*
 A modern Tic-Tac-Toe web application featuring a score-based series system (first to 5 points), round proof logs, and dynamic color-coded winning highlights.
 
