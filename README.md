@@ -55,6 +55,14 @@
 
 ## 🚀 Projects
 
+### 22. ⭕ XOX Game *(2026)*
+A modern Tic-Tac-Toe web application featuring a score-based series system (first to 5 points), round proof logs, and dynamic color-coded winning highlights.
+
+- 🌐 Live: https://manjesh2022.github.io/XOX-Game/
+- 💻 Repository: https://github.com/manjesh2022/XOX-Game
+
+---
+
 ### 21. 🔴 Ali Guli Mane *(2026)*
 A traditional South Indian board game originating from Karnataka, built using pure HTML, CSS, and JavaScript. Commonly referred to under the broader family of "Mancala" games, this application features dynamic sowing animations, turn-based highlights, and automated score tracking.
 
