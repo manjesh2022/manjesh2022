@@ -55,6 +55,14 @@
 
 ## 🚀 Projects
 
+### 21. 🔴 Ali Guli Mane *(2026)*
+A traditional South Indian board game originating from Karnataka, built using pure HTML, CSS, and JavaScript. Commonly referred to under the broader family of "Mancala" games, this application features dynamic sowing animations, turn-based highlights, and automated score tracking.
+
+- 🌐 Live: https://manjesh2022.github.io/AliGuliMane/
+- 💻 Repository: https://github.com/manjesh2022/AliGuliMane
+
+---
+
 ### 20. 🏋️‍♂️ Gym Tracker *(2026)*
 A personal fitness and workout tracking web utility built to log exercises, sets, and progress over time.
 
