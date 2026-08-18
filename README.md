@@ -55,6 +55,14 @@
 
 ## 🚀 Projects
 
+### 24. 🎯 MyResolutions *(2026)*
+A feature-rich, dark-themed interactive yearly resolutions and target tracker featuring multi-year tabs, category filters, live keyword search, stats tracking, and JSON data backup/restore capabilities.
+
+- 🌐 Live: https://manjesh2022.github.io/MyResolutions/
+- 💻 Repository: https://github.com/manjesh2022/MyResolutions
+
+---
+
 ### 23. ♟️ Chess *(2026)*
 An interactive chess platform featuring local 2-player games, Stockfish AI engine integration, automated Bot vs. Bot simulation, legal move highlights, and a match timer.
 
