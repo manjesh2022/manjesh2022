@@ -87,11 +87,11 @@ A traditional South Indian board game originating from Karnataka, built using pu
 
 ---
 
-### 20. 🏋️‍♂️ Gym Tracker *(2026)*
+### 20. 🏋️‍♂️ Muscle Tracker *(2026)*
 A personal fitness and workout tracking web utility built to log exercises, sets, and progress over time.
 
-- 🌐 Live: https://manjesh2022.github.io/GymTracker/
-- 💻 Repository: https://github.com/manjesh2022/GymTracker
+- 🌐 Live: https://manjesh2022.github.io/MuscleTracker/
+- 💻 Repository: https://github.com/manjesh2022/MuscleTracker
 
 ---
 
