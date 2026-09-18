@@ -55,6 +55,15 @@
 
 ## 🚀 Projects
 
+
+### 25. 🔗 Links *(2026)*
+A modern personal links dashboard for organizing, searching, and managing favorite links with automatic categorization, local storage, import/export support, and a responsive mobile-friendly interface.
+
+- 🌐 Live: https://manjesh2022.github.io/Links/
+- 💻 Repository: https://github.com/manjesh2022/Links
+
+---
+
 ### 24. 🎯 MyResolutions *(2026)*
 A feature-rich, dark-themed interactive yearly resolutions and target tracker featuring multi-year tabs, category filters, live keyword search, stats tracking, and JSON data backup/restore capabilities.
 
